@@ -1,3 +1,3 @@
 # Nicroservice CI/CD Pipeline Projects
 
-![NicroserviceCICDProjectArch!](https://lucid.app/publicSegments/view/5916b252-1630-4d49-965b-00c8ec49869d/image.png) 
+![NicroserviceCICDProjectArch!](https://lucid.app/publicSegments/view/adb92915-5e28-4871-acf3-0f3a585387f7/image.png) 
