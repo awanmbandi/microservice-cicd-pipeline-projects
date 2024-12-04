@@ -1,6 +1,6 @@
 # Create Custom Docker Image
 # Pull tomcat latest image from dockerhub 
-FROM tomcat:latest
+FROM tomcat:11.0.1-jdk21-temurin-noble
 
 # Maintainer
 MAINTAINER "PR Reddy - iwayQ" 
